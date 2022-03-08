@@ -2,7 +2,7 @@
 Hello!
 This is my simple finance landing page!
 
-I used HTML5, CSS and Bootstrap 4.1 to make it!
+I used HTML5, CSS and Bootstrap 4.1 to do this!
 ![Animação](https://user-images.githubusercontent.com/87656330/157318232-3968a939-8218-42af-825d-e62e5190acb0.gif)
 
 
