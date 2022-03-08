@@ -1,0 +1,16 @@
+.branco {
+    color: white;
+}
+
+.caixa {
+    padding: 60px 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.rightBorder {
+    border-right: 2px solid #e5e5e5;
+}
+
+footer p a {
+   padding: 0 15px;
+}
